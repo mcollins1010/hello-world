@@ -10,7 +10,7 @@
 
     <h2>Login Page</h2>
 
-    <form action="LoginServlet" method="post">
+    <form>
         <label for="username">Username:</label>
         <input type="text" id="username" name="username" required><br>
 
